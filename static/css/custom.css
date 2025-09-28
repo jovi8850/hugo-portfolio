@@ -1,0 +1,29 @@
+/* Overall page background and text */
+body {
+    background-color: #f0f8ff; /* light blue background */
+    color: #222222; /* dark gray text */
+}
+
+/* Links */
+a {
+    color: #4a90e2; /* calming blue links */
+}
+a:hover {
+    color: #003366; /* darker blue on hover */
+}
+
+/* Header and footer */
+header, footer {
+    background-color: #003366; /* navy blue */
+    color: white;
+}
+
+/* Buttons (if your theme uses them) */
+button, .btn {
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+}
+button:hover, .btn:hover {
+    background-color: #003366;
+}

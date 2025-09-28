@@ -1,0 +1,43 @@
+title = "Jovana Petkovic"
+baseURL = "https://example.com/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+customCSS = ["css/custom.css"]
+address = "San Diego, CA"
+email = "jpetkovic96@gmail.com"
+firstName = "Jovana"
+lastName = "Petkovic"
+summary = "Experienced payroll professional transitioning into data science. Skilled in Python, SQL, and data visualization, with a strong background in payroll operations, compliance, and data-driven process improvements. See my [Projects](/projects/) for examples of my work."
+profileImage = "img/flowerwall.jpg"  # put your headshot in static/img/
+showQr = false                     # disable unless you want QR
+showContact = true
+showBoards  = false
+showCertifications = false
+showSocializations = true
+sections = ["skills","experience","education"]
+
+
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 40

@@ -1,0 +1,14 @@
+[
+  {
+    "grouping": "Programming & Data Science",
+    "skills": ["Python", "SQL", "R", "Jupyter Notebooks", "Google Colab", "Data Visualization"]
+  },
+  {
+    "grouping": "Analytics & Tools",
+    "skills": ["Excel (Advanced)", "Alteryx", "ADP Workforce Now", "ADP GlobalView", "Workday"]
+  },
+  {
+    "grouping": "Domain Expertise",
+    "skills": ["Payroll Operations", "SOX Compliance", "Tax Audits", "RSU & ESPP Audits", "Process Improvement", "Cross-Functional Collaboration"]
+  }
+]
