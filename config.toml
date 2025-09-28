@@ -1,5 +1,5 @@
 title = "Jovana Petkovic"
-baseURL = "https://example.com/"
+baseURL = "https://harmonious-queijadas-9306e9.netlify.app/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
